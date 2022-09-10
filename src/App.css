@@ -13,7 +13,7 @@
 --title-color-dark: hsl(var(--hue), var(--sat), 0%);
 --text-color: hsl(var(--hue), var(--sat), 46%);
 --body-color: hsl(var(--hue), var(--sat), 98%);
---container-color: #fff;
+--container-color: #000;
 
 /*--- Font and typography ---*/
 --body-font: "Poppins", sans-serif;
@@ -171,6 +171,10 @@ img {
 
 /* For large devices */
 @media screen and (max-width: 992px){
+  .container{
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
 }
 
 /* For medium devices*/
@@ -182,5 +186,9 @@ img {
 
 /* For small devices*/
 @media screen and (max-width: 350px){
+  .container{
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
 }
 
