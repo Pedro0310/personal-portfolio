@@ -1,5 +1,5 @@
-import Work1 from "../../assets/work1.jpg"
-import Work2 from "../../assets/work2.jpg"
+import Work1 from "../../assets/pomodoro-timer.png"
+import Work2 from "../../assets/notes-app.png"
 import Work3 from "../../assets/work3.jpg"
 import Work4 from "../../assets/work4.jpg"
 import Work5 from "../../assets/work5.jpg"
@@ -8,14 +8,14 @@ const Menu = [
   {
     id: 1,
     image: Work1,
-    title: "Project Management Illustration",
-    category: "Pomodoro",
+    title: "",
+    category: "Pomodoro Timer",
   },
   {
     id: 2,
     image: Work2,
-    title: "Guest App Walkthrough Screens",
-    category: "Art",
+    title: "",
+    category: "Notes App",
   },
   {
     id: 3,

@@ -10,8 +10,6 @@ const Portfolio = () => {
     <section className="work container section" id="work">
       <h2 className="section__title">Recent Works</h2>
 
-     
-
       <div className="work__container grid">
         {items.map((elem) => {
           const { id, image, title, category } = elem;
@@ -24,7 +22,10 @@ const Portfolio = () => {
               <span className="work__category">{category}</span>
               <h3 className="work__title">{title}</h3>
               <a href="#" className="work__button">
-                <i className="bx bx-link  work__button-icon" style={{ color: "#000" }}></i>
+                <i
+                  className="bx bx-link  work__button-icon"
+                  style={{ color: "#000" }}
+                ></i>
               </a>
             </div>
           );
