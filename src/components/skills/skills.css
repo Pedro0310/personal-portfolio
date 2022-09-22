@@ -48,13 +48,15 @@
 .bxs-data {
   font-size: 1.3rem;
   color: var(--title-color);
-  margin-top: 1px;
+  margin-top: 10px;
 }
 
 .skills__name {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
   line-height: 18px;
+  /* Added */
+  padding: 10px 0 10px ;
 }
 
 .skills__level {
