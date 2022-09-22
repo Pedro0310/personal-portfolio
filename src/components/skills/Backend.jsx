@@ -12,7 +12,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Node.js</h3>
-              <span className="skills__level">Basic</span>
+              {/*<span className="skills__level">Basic</span>*/}
             </div>
           </div>
 
@@ -21,7 +21,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Git</h3>
-              <span className="skills__level">Basic</span>
+              {/*<span className="skills__level">Basic</span>*/}
             </div>
           </div>
 
@@ -30,7 +30,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Firebase</h3>
-              <span className="skills__level">Basic</span>
+              {/*<span className="skills__level">Basic</span>*/}
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">MongoDB</h3>
-              <span className="skills__level">Basic</span>
+              {/*<span className="skills__level">Basic</span>*/}
             </div>
           </div>
 
@@ -49,7 +49,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">MySQL</h3>
-              <span className="skills__level">Basic</span>
+              {/*<span className="skills__level">Basic</span>*/}
             </div>
           </div>
 
@@ -58,7 +58,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">---</h3>
-              <span className="skills__level">---</span>
+              {/*<span className="skills__level">---</span>*/}
             </div>
           </div>
         </div>
