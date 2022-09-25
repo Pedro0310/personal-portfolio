@@ -5,14 +5,14 @@ const Data = [
     icon: "bx bxs-graduation",
     year: "2018 - 2020",
     title: "IUTAV",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+    desc: "Modern languages (English Business level & French Conversational)",
   },
   {
     id: 2,
     category: "education",
     icon: "bx bxs-graduation",
-    year: "---",
-    title: "---",
+    year: "2020",
+    title: "Platzi",
     desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
   {
