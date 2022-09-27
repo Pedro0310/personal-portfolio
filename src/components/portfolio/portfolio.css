@@ -2,6 +2,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 1.875rem;
   margin-top: 15px;
+  height: 23.3rem;
 }
 
 .work__card {
@@ -9,6 +10,7 @@
   overflow: hidden;
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
+  
 }
 
 .work__mask {
@@ -18,7 +20,7 @@
   top: 0;
   height: 100%;
   width: 100%;
-  transition: 0.3s;
+  transition: .3s;
   opacity: 0;
 }
 
