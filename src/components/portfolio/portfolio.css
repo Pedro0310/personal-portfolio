@@ -2,6 +2,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 1.875rem;
   margin-top: 15px;
+  /* This is what I changed */
   height: 23.3rem;
 }
 

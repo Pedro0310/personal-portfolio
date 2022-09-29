@@ -8,7 +8,7 @@ const Menu = [
   {
     id: 1,
     image: Work1,
-    title: "",
+    title: "#HTML #CSS",
     category: "Pomodoro Timer",
   },
   {
