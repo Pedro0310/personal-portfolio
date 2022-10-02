@@ -27,8 +27,8 @@ const Data = [
     id: 4,
     category: "experience",
     icon: 'bx bx-briefcase',
-    year: "---",
-    title: "---",
+    year: "2020",
+    title: "Front-End Developer",
     desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
   {
@@ -36,7 +36,7 @@ const Data = [
     category: "experience",
     icon: "bx bx-briefcase",
     year: "2013 - 2017",
-    title: "Front-End Developer",
+    title: "",
     desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
   {
