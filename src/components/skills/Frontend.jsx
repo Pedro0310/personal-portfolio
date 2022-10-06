@@ -48,6 +48,15 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
+            <i class="bx bxl-react" style={{ color: "#61DBFB" }}></i>
+
+            <div>
+              <h3 className="skills__name">React</h3>
+              {/*<span className="skills__level">Intermediate</span>*/}
+            </div>
+          </div>
+
+          <div className="skills__data">
             <i class="bx bxs-badge-check"></i>
 
             <div>
@@ -56,14 +65,8 @@ const Frontend = () => {
             </div>
           </div>
 
-          <div className="skills__data">
-            <i class="bx bxl-react" style={{ color: "#61DBFB" }}></i>
+          
 
-            <div>
-              <h3 className="skills__name">React</h3>
-              {/*<span className="skills__level">Intermediate</span>*/}
-            </div>
-          </div>
         </div>
       </div>
     </div>
