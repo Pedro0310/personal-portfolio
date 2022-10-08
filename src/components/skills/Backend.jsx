@@ -7,6 +7,7 @@ const Backend = () => {
 
       <div className="skills__box">
         <div className="skills__group">
+
           <div className="skills__data">
             <i class="bx bxl-nodejs" style={{ color: "#68A063" }}></i>
 
@@ -34,6 +35,7 @@ const Backend = () => {
             </div>
           </div>
         </div>
+        
         <div className="skills__group">
           <div className="skills__data">
             <i class="bx bxl-mongodb" style={{ color: "#1E8835" }}></i>

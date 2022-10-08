@@ -27,7 +27,7 @@ const Data = [
     id: 4,
     category: "experience",
     icon: 'bx bx-briefcase',
-    year: "2020",
+    year: "2021",
     title: "Front-End Developer",
     desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
