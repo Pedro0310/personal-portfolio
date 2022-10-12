@@ -14,7 +14,8 @@
 }
 
 .work__thumbnail{
-  margin-bottom: -5.5px;
+  /* margin-bottom: -5.5px; */
+  margin-bottom: -15px;
   }
 
 .work__mask {

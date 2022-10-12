@@ -13,7 +13,7 @@ const Data = [
     icon: "bx bxs-graduation",
     year: "2020",
     title: "Platzi",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+    desc: "Platzi is a Latin American educational platform, that uses video and interactive lessons to teach tangible skills. Platzi creates the courses, hires instructors and does the recording of the lessons.",
   },
   {
     id: 3,
@@ -26,10 +26,10 @@ const Data = [
   {
     id: 4,
     category: "experience",
-    icon: 'bx bx-briefcase',
-    year: "2021",
+    icon: "bx bx-briefcase",
+    year: "2020 - 2022",
     title: "Front-End Developer",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
+    desc: "I've been learning and coding for about two years part time. I've completed three projects and about ten certificates.",
   },
   {
     id: 5,

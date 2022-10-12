@@ -1,6 +1,6 @@
-import Work1 from "../../assets/pomodoro-timer.png"
-import Work2 from "../../assets/notes-app.png"
-// import Work3 from "../../assets/work3.jpg"
+import Work1 from "../../assets/pomodoro-timer.jpg";
+import Work2 from "../../assets/notes-app.png";
+import Work3 from "../../assets/in-progress.png"
 // import Work4 from "../../assets/work4.jpg"
 // import Work5 from "../../assets/work5.jpg"
 
@@ -17,12 +17,12 @@ const Menu = [
     title: "#HTML #CSS #JavaScript #React",
     category: "Notes App",
   },
-  // {
-  //   id: 3,
-  //   image: Work3,
-  //   title: "Delivery App Wireframe",
-  //   category: "Branding",
-  // },
+  {
+    id: 3,
+    image: Work3,
+    title: "???",
+    category: "#",
+  },
   // ,
   // {
   //   id: 4,
