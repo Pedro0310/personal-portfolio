@@ -13,10 +13,10 @@ const Data = () => {
 
       <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
-        I'm a self-taught frontend developer based in Caracas, stick around to see some of my work.
+        I'm a 23 years old self-taught frontend developer based in Caracas, stick around to see some of my work.
       </p>
        
-      <a href="#contact" className="button button--flex">
+      {/* <a href="#contact" className="button button--flex">
         Say Hello
         <svg
           class="button__icon"
@@ -35,7 +35,7 @@ const Data = () => {
             fill="var(--container-color)"
           ></path>
         </svg>
-      </a>
+      </a> */}
     </div>
   );
 };
