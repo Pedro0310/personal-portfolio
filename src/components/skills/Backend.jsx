@@ -7,7 +7,6 @@ const Backend = () => {
 
       <div className="skills__box">
         <div className="skills__group">
-
           <div className="skills__data">
             <i class="bx bxl-nodejs" style={{ color: "#68A063" }}></i>
 
@@ -25,17 +24,8 @@ const Backend = () => {
               {/*<span className="skills__level">Basic</span>*/}
             </div>
           </div>
-
-          <div className="skills__data">
-            <i class="bx bxl-firebase" style={{ color: "#F5820B" }}></i>
-
-            <div>
-              <h3 className="skills__name">Firebase</h3>
-              {/*<span className="skills__level">Basic</span>*/}
-            </div>
-          </div>
         </div>
-        
+
         <div className="skills__group">
           <div className="skills__data">
             <i class="bx bxl-mongodb" style={{ color: "#1E8835" }}></i>
@@ -47,20 +37,11 @@ const Backend = () => {
           </div>
 
           <div className="skills__data">
-            <i class="bx bxs-data" style={{ color: "#00618A" }}></i>
+            <i class="bx bxl-firebase" style={{ color: "#F5820B" }}></i>
 
             <div>
-              <h3 className="skills__name">MySQL</h3>
+              <h3 className="skills__name">Firebase</h3>
               {/*<span className="skills__level">Basic</span>*/}
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bxs-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">---</h3>
-              {/*<span className="skills__level">---</span>*/}
             </div>
           </div>
         </div>
