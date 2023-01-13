@@ -29,7 +29,7 @@ const Data = [
     icon: "bx bx-briefcase",
     year: "2020 - 2022",
     title: "Front-End Developer",
-    desc: "I've been learning and coding for about two years part time. I've completed three projects and about ten certificates.",
+    desc: "I've been learning and coding for about two years part time. I've completed four projects and about ten certificates.",
   },
   // {
   //   id: 5,
